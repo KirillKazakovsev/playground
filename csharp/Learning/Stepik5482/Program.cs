@@ -11,8 +11,8 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            //Task_4_2_ReverseNumber.Do();
-            Task_4_1_ArthurShop.Do();
+            Task_4_2_ReverseNumber.Do();
+            //Task_4_1_ArthurShop.Do();
             Console.ReadLine();
         }
     }
