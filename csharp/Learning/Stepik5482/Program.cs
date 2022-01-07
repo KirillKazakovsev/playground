@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Stepik5482.Chapter3_If;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
+            //Task_4_2_ReverseNumber.Do();
+            Task_4_1_ArthurShop.Do();
+            Console.ReadLine();
         }
     }
 }
