@@ -6,7 +6,11 @@ namespace Stepik5482.Chapter3_If
     {
         public static void Do()
         {
-            Console.WriteLine("Task_4_2_ReverseNumber");
+            double a = Convert.ToDouble(Console.ReadLine());
+            if (a == 0)
+            Console.WriteLine("Обратного числа не существует");
+            else 
+                Console.WriteLine(1 / a);
         }
     }
 }
