@@ -14,9 +14,8 @@ namespace Stepik5482
         static void Main(string[] args)
         {
             Task_6_1_3_more_then.Do();
-            Identifier.Do();
-            NString.Do();
-            Console.ReadLine();
+            Line_formation.Do();
+            Console.ReadLine();            
         }
     }
 }
