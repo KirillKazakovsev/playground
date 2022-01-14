@@ -1,4 +1,6 @@
 ﻿using Stepik5482.Chapter3_If;
+using Stepik5482.Chapter6_array;
+using Stepik5482.Chapter5_string;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +13,9 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            Task_4_2_ReverseNumber.Do();
-            //Task_4_1_ArthurShop.Do();
+            Task_6_1_3_more_then.Do();
+            Identifier.Do();
+            NString.Do();
             Console.ReadLine();
         }
     }
