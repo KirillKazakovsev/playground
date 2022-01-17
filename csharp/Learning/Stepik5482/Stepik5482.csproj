@@ -45,8 +45,11 @@
   <ItemGroup>
     <Compile Include="Chapter3_If\Task_4_1_ArthurShop.cs" />
     <Compile Include="Chapter3_If\Task_4_2_ReverseNumber.cs" />
+    <Compile Include="Chapter5_string\Azbyka_Artorse.cs" />
+    <Compile Include="Chapter5_string\File_name.cs" />
     <Compile Include="Chapter5_string\Identifier.cs" />
     <Compile Include="Chapter5_string\Line_formation.cs" />
+    <Compile Include="Chapter5_string\long_words.cs" />
     <Compile Include="Chapter5_string\NString.cs" />
     <Compile Include="Chapter6_array\Task_6_1_3_more_then.cs" />
     <Compile Include="Program.cs" />

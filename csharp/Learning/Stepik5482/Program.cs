@@ -14,7 +14,9 @@ namespace Stepik5482
         static void Main(string[] args)
         {
             Task_6_1_3_more_then.Do();
-            Line_formation.Do();
+            long_words.Do();
+            File_name.Do();
+            Azbyka_Artorse.Do();
             Console.ReadLine();            
         }
     }
