@@ -13,7 +13,6 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-                      
             Task_6_1_5_Two_element.Do();    
             Console.ReadLine();            
         }
