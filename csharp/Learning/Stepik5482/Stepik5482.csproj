@@ -54,6 +54,7 @@
     <Compile Include="Chapter6_array\Task_6_1_3_more_then.cs" />
     <Compile Include="Chapter6_array\Task_6_1_4_transposition.cs" />
     <Compile Include="Chapter6_array\Task_6_1_5_Two_element.cs" />
+    <Compile Include="Chapter6_array\Task_6_1_6_Rotate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

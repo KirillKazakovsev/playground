@@ -13,9 +13,8 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            Task_6_1_5_Two_element.Do();    
-            Task_6_1_4_transposition.Do();            
-            
+                     
+            Task_6_1_6_Rotate.Do();
             Console.ReadLine();            
         }
     }
