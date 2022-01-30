@@ -12,14 +12,10 @@ namespace Stepik5482.Chapter6_array
         {
             int n = Convert.ToInt32(Console.ReadLine());
             string[] s = Console.ReadLine().Split(' ');
-
-            for (int i = 0; i < n - 1; i++)
-            {
-                if (i == 0)
-                {
-                    Console.Write(s[n - 1] + " ");
-                }
-                Console.Write(s[i] + " ");
+            Console.Write(s[n - 1] + " ");           
+            {                                        
+              for (int i = 0; i < n - 1; i++)                
+              Console.Write(s[i] + " ");
             }
         }
     }
