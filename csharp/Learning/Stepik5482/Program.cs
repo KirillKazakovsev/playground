@@ -13,8 +13,8 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-                     
-            Task_6_1_6_Rotate.Do();
+            Task_6_2_Min_Index.Do();          
+            
             Console.ReadLine();            
         }
     }
