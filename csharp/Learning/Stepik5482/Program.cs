@@ -13,7 +13,7 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            Task_6_2_Min_Index.Do();          
+            Task_6_2_Decrement_elements.Do();   
             
             Console.ReadLine();            
         }
