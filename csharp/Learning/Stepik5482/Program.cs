@@ -13,8 +13,8 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            Task_6_2_Decrement_elements.Do();   
             
+            Task_6_2_Difference_MinMax_Index.Do();
             Console.ReadLine();            
         }
     }

@@ -52,6 +52,7 @@
     <Compile Include="Chapter5_string\long_words.cs" />
     <Compile Include="Chapter5_string\NString.cs" />
     <Compile Include="Chapter6_array\Task_6_2_Decrement_elements.cs" />
+    <Compile Include="Chapter6_array\Task_6_2_Difference_MinMax_Index.cs" />
     <Compile Include="Chapter6_array\Task_6_2_Min_Index.cs" />
     <Compile Include="Chapter6_array\Task_6_1_3_more_then.cs" />
     <Compile Include="Chapter6_array\Task_6_1_4_transposition.cs" />
