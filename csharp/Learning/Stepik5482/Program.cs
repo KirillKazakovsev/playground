@@ -13,7 +13,7 @@ namespace Stepik5482
     {
         static void Main(string[] args)
         {
-            Task_6_2_Palindrome.Do();
+            Task_6_3_Two_Identical_Elements.Do();
             
             Console.ReadLine();            
         }
