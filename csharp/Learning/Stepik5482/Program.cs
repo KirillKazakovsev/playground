@@ -14,7 +14,8 @@ namespace Stepik5482
         static void Main(string[] args)
         {
             
-            Task_6_3_Only_Elements.Do();
+            
+            Task_6_4_side_diagonal.Do(); 
             Console.ReadLine();            
         }
     }
