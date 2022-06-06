@@ -60,6 +60,7 @@
     <Compile Include="Chapter6_array\Task_6_1_5_Two_element.cs" />
     <Compile Include="Chapter6_array\Task_6_1_6_Rotate.cs" />
     <Compile Include="Chapter6_array\Task_6_2_Palindrome.cs" />
+    <Compile Include="Chapter6_array\Task_6_2_Symmetric_Matrix.cs" />
     <Compile Include="Chapter6_array\Task_6_3_Only_Elements.cs" />
     <Compile Include="Chapter6_array\Task_6_3_Two_Identical_Elements.cs" />
     <Compile Include="Chapter6_array\Task_6_4_Side_Diagonal.cs" />
