@@ -15,7 +15,7 @@ namespace Stepik5482
         {
 
 
-            Task_6_2_Symmetric_Matrix.Do();
+            Task_6_4_Multiplication_Table.Do();
             Console.ReadLine();            
         }
     }
