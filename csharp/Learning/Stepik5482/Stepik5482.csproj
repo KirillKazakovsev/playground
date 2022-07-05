@@ -64,6 +64,7 @@
     <Compile Include="Chapter6_array\Task_6_3_Only_Elements.cs" />
     <Compile Include="Chapter6_array\Task_6_3_Two_Identical_Elements.cs" />
     <Compile Include="Chapter6_array\Task_6_4_Multiplication_Table.cs" />
+    <Compile Include="Chapter6_array\Task_6_4_Pascal_ triangle.cs" />
     <Compile Include="Chapter6_array\Task_6_4_Side_Diagonal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
