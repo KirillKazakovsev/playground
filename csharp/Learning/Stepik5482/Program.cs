@@ -14,8 +14,8 @@ namespace Stepik5482
         static void Main(string[] args)
         {
 
-            Task_6_4_Pascal__triangle.Do();
             
+           Task_6_4_Competitions.Do();
             Console.ReadLine();            
         }
     }
