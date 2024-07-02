@@ -68,6 +68,7 @@
     <Compile Include="Chapter6_array\Task_6_4_Multiplication_Table.cs" />
     <Compile Include="Chapter6_array\Task_6_4_Pascal_ triangle.cs" />
     <Compile Include="Chapter6_array\Task_6_4_Side_Diagonal.cs" />
+    <Compile Include="Chapter6_array\Task_6_6_even_and_quantity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
